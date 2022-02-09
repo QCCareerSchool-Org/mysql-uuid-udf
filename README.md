@@ -1,6 +1,6 @@
 # UUID UDFs for MySQL / MariaDB
 
-Provides UUID_TO_BIN and BIN_TO_UUID functions like the ones present in MySQL 8 / MariaDB 10.5
+Provides UUID_TO_BIN and BIN_TO_UUID functions like the ones present in MySQL 8 / MariaDB 10.8
 
 ## Description of UDFs
 
